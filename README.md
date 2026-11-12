@@ -41,20 +41,3 @@ O meu objetivo é simples: aprender continuamente, escrever código limpo e me t
 </div>
 
 ---
-
-### 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬 & 𝐅𝐨𝐜𝐨 𝐝𝐞 𝐄𝐬𝐭𝐮𝐝𝐨𝐬
-
-#### 𝑬𝒔𝒕𝒖𝒅𝒂𝒏𝒅𝒐 𝒏𝒐 𝒎𝒐𝒎𝒆𝒏𝒕𝒐:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-</p>
-
-#### 𝑭𝒆𝒓𝒓𝒂𝒎𝒆𝒏𝒕𝒂𝒔 𝒒𝒖𝒆 𝒖𝒍𝒕𝒊𝒍𝒊𝒛𝒐:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-</p>
